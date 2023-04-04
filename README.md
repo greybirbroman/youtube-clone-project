@@ -1,7 +1,8 @@
 <h1>YouTube-clone-project</h1>
 
 
-___
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb31874a-058d-4758-a896-8aee2217183d/deploy-status)](https://app.netlify.com/sites/romansyoutube/deploys)
+
 ![react](https://img.shields.io/badge/React-F5F5F5?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![mui](https://img.shields.io/badge/Mui-F5F5F5?style=for-the-badge&logo=Mui&logoColor=#61DAFB)
 ![API](https://img.shields.io/badge/Rapidapi-F5F5F5?style=for-the-badge&logo=rapid&logoColor=#61DAFB)
